@@ -4,4 +4,4 @@ title: Art and Illustrations
 permalink: /art/
 ---
 
-![Old man](srsathvik.github.io/images/art002.png)
+![Old man](/images/art002.png)
