@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sathvik S.R
+name: S R Sathvik
 
 # Name of the author
-author: Sathvik SR
+author: Sathvik
 
 # Short bio or description (displayed in the header)
 description: Nerd(fighter).
@@ -20,12 +20,12 @@ avatar: /images/avatar.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: https://dribbble.com/sathviksr
   email: hellosathviksr@gmail.com
   facebook:
   flickr:
-  github: sathviksr
-  instagram:
+  github: srsathvik
+  instagram: srsathvik
   linkedin: 
   pinterest:
   rss: rss
@@ -45,7 +45,7 @@ google_analytics: UA-145903135-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https//www.sathviksr.github.io
+url: https//www.srsathvik.github.io
 enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages

@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Sathvik, a high-schooler who loves tinkering with technology and coding. I like video games and 3d modelling. Currently learning to build intelligent machines.
+Hi! I'm Sathvik, a high-schooler who's passionate about technology and art. I like programming, video games, books, movies, cooking and learning new things all the time. Currently learning to build intelligent machines.
 
-You can either find me reading a book or building programs.
-
-Contacts on Twitter (link's below).
+Contact me via email or shoot a DM on Twitter.
