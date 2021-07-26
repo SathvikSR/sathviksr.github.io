@@ -5,7 +5,7 @@ permalink: /art/
 ---
 
 ![Old man](/images/art002.png)
-![Schinchan](/images/shinchanv2.png)
+![Schinchan](/images/shinchanV2.png)
 ![sad face](/images/sad.jpg)
 ![faces](/images/faces.jpg)
 ![graffiti](/images/graffiti.jpg)
